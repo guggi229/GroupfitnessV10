@@ -2,7 +2,7 @@ target/
 /build/
 
 /RemoteSystemsTempFiles/
-.metadata/
+/.metadata/
 *.log
 .recommenders/
 Project2V10Web/.settings/
