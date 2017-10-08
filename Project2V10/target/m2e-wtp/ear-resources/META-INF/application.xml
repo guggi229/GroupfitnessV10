@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/application_6.xsd" version="6">
+  <display-name>Project2V10</display-name>
+  <module>
+    <ejb>Project2V10EJB-0.0.1-SNAPSHOT.jar</ejb>
+  </module>
+  <module>
+    <java>Project2V10Client-0.0.1-SNAPSHOT.jar</java>
+  </module>
+  <module>
+    <web>
+      <web-uri>Project2V10Web-0.0.1-SNAPSHOT.war</web-uri>
+      <context-root>/Project2V10Web</context-root>
+    </web>
+  </module>
+  <module>
+    <connector>Project2V10Connector-0.0.1-SNAPSHOT.rar</connector>
+  </module>
+  <library-directory>lib</library-directory>
+</application>

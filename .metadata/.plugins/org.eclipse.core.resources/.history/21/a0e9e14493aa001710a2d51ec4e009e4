@@ -1,0 +1,6 @@
+package com.guggisberg.stefan.test;
+
+@Stateless
+public class hello {
+
+}
