@@ -4,3 +4,5 @@ target/
 /RemoteSystemsTempFiles/
 .metadata/
 *.log
+.recommenders/
+Project2V10Web/.settings/
